@@ -9,8 +9,11 @@ This project involves processing geographic data, including extracting coordinat
 
 ## **Usage**
 1- Ensure you have Python installed on your system.
+
 2- Install the necessary dependencies using pip:
-   _ pip install pandas requests_
+ ```
+   pip install pandas requests
+```
 3- Run each code snippet provided in the respective Python environment (e.g., Jupyter Notebook, Python script).
 
 ## **Code Snippets**
