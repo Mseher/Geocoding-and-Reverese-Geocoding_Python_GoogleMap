@@ -14,6 +14,7 @@ This project involves processing geographic data, including extracting coordinat
 3- Run each code snippet provided in the respective Python environment (e.g., Jupyter Notebook, Python script).
 
 **Code Snippets**
+
 1- **Extract Coordinates from URL:** Extracts latitude and longitude coordinates from Google Maps URLs and saves the data to an Excel file.
 2- **Extract Coordinates from Short URL:** Fetches the long URL from short URLs and extracts coordinates, then saves the data to an Excel file.
 3- **Reverse Geocode and Extract City Names:** Uses reverse geocoding to extract city names from latitude and longitude coordinates, and saves the data to an Excel file.
