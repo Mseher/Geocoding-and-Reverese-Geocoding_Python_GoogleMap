@@ -32,5 +32,7 @@ This project involves processing geographic data, including extracting coordinat
 
 ## **Note**
 1- Ensure that the input data files (e.g., 'cleaned_data.xlsx') are placed in the same directory as the Python scripts.
+
 2- Modify the file paths in the code snippets as necessary to match the location of your data files.
+
 3- Review the code comments for additional information and customization options.
